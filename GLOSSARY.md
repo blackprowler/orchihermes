@@ -47,6 +47,17 @@ Living document. Every domain, business, and research term used in this workspac
 | **Media / mount** | Potting substrate (bark, lava, sphagnum) or mounting surface; repotting media history matters to orchid keepers | Candidate record field |
 | **Incumbent** | Existing tool occupying a niche | e.g. Orchid Album (hobbyist default), OrchidWiz (breeder legacy) |
 
+## Aroid / adjacent-collector domain (added by aroid-adjacency pass 2026-10-11)
+
+| Term | Meaning | In this project |
+|---|---|---|
+| **Variegation / chimera (CM)** | Sectoral color mutation; usually random and revertible; "CM" = stable chimera | The named-mutation class retaining value post-crash; stability history = record field |
+| **Reversion** | A variegated plant reverting to all-green | Disclosure problem at resale; candidate record field |
+| **Cutter / cutting culture** | Trade in unrooted stems; provenance = photo of the mother plant | Current de-facto aroid provenance artifact |
+| **Plant drop** | Scheduled limited-quantity seller release (IG/Shopify) | Aroid sales channel with no record layer |
+| **ICRA** | International Cultivar Registration Authority (per-genus, ISHS-appointed) | Exists for Hoya (hoyacultivars.org) and carnivorous plants (ICPS); nomenclature only, no lineage-transfer tool; none for Philodendron/Anthurium |
+| **Leafolio / InPlantory** | Aroid-relevant record apps: Leafolio = iOS collection journal w/ source history; InPlantory (beta) = aroid "botanical record system" w/ mother-plant genealogy | Occupants of the hobbyist-record niche; neither claims seller→buyer transfer |
+
 ## Segments (candidate ICPs)
 
 | Segment | Definition | Evidence so far |
