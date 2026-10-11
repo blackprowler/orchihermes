@@ -64,6 +64,8 @@ Do not pick between H1 and H2 yet. The evidence supports testing one product sha
 
 Flagged **NEEDS VALIDATION** because it would change product direction: treating breeder tooling as the wedge rather than a feature.
 
+> **Addendum 2026-10-11 (passes R1–R3):** aroid adjacency = moderate extend (bonsai + philodendron/anthurium breeding are the empty adjacencies; `2026-10-11-aroid-adjacency.md`); incumbent teardown upgraded OrchidWiz to a live nonprofit-backed web product and identified Velvet30 as closest-concept beta — neither does transfer/export/passport (`evidence/2026-10-11-incumbent-teardown.md`); seller voice found at last — top seller pain is compliance/takedowns, DIY seller records confirmed, generational handover single-source vivid, seller WTP still unevidenced (`evidence/2026-10-11-seller-side-mining.md`). The transferable-record wedge survived all three checks; the new risk is that the wedge must *arrive attached to the compliance pain* to reach sellers. **(Assumption)** compliance-tied record = the seller's door-in; record-transfer alone = the buyer's value.
+
 ## Coverage gaps (carried from evidence files)
 
 - Reddit thread bodies unreachable from this environment (reddit.com, .json, old.reddit, api.reddit, redlib mirrors all blocked); evidence rests on search-index snippets — comment-level dates unverified (A).
