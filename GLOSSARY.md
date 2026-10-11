@@ -65,4 +65,4 @@ Living document. Every domain, business, and research term used in this workspac
 |---|---|---|
 | **Collector-hobbyist** | Keeps >~20 orchids, feels record pain, DIY-tracks today | Strong (pain-points §1) |
 | **Hobby breeder/hybridizer** | Makes crosses, may register grexes at RHS | Volume proven (4,000+/yr registrations), individual WTP unproven |
-| **Small nursery / online seller** | Micro to mid nursery or backyard seller selling web/offline | Weak — no first-person sources yet; biggest gap |
+| **Small nursery / online seller** | Micro to mid nursery or backyard seller selling web/offline | Improving — first-person seller voice sourced round 2 (Etsy forum, r/EtsySellers, GrowerTalks/Hausermann); loudest pain = compliance/takedowns, not records. See evidence/2026-10-11-seller-side-mining.md |
