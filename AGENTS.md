@@ -14,6 +14,7 @@ Three workstreams, kept in separate folders:
 - File naming: `YYYY-MM-DD-topic.md` for dated notes; topic-only names for living documents.
 - `research/evidence/` holds raw material (interviews, survey exports, scraped data); distilled conclusions go in top-level notes.
 - Decisions get recorded in `planning/decisions.md` as: date, decision, rationale, revisit-when.
+- Domain/business/research terms are defined once in `GLOSSARY.md`; any note introducing a new term adds it there first.
 - Nothing in this workspace ships code; code lives elsewhere when the project graduates from research.
 
 ## Working agreement for agents
