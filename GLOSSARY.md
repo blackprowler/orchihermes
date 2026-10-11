@@ -56,7 +56,8 @@ Living document. Every domain, business, and research term used in this workspac
 | **Cutter / cutting culture** | Trade in unrooted stems; provenance = photo of the mother plant | Current de-facto aroid provenance artifact |
 | **Plant drop** | Scheduled limited-quantity seller release (IG/Shopify) | Aroid sales channel with no record layer |
 | **ICRA** | International Cultivar Registration Authority (per-genus, ISHS-appointed) | Exists for Hoya (hoyacultivars.org) and carnivorous plants (ICPS); nomenclature only, no lineage-transfer tool; none for Philodendron/Anthurium |
-| **Leafolio / InPlantory** | Aroid-relevant record apps: Leafolio = iOS collection journal w/ source history; InPlantory (beta) = aroid "botanical record system" w/ mother-plant genealogy | Occupants of the hobbyist-record niche; neither claims seller→buyer transfer |
+| **Leafolio / InPlantory** | Aroid-relevant record apps: Leafolio = iOS collection journal w/ source history; InPlantory (beta) = aroid "botanical record system" w/ mother-plant genealogy | Occupants of the hobbyist-record niche; neither claims seller→buyer transfer. InPlantory teardown 2026-10-11: sign-in shell only, zero external footprint (see evidence/2026-10-11-incumbent-teardown.md) |
+| **Velvet30** | All-plant breeding/pedigree web app (aroids-first, orchids in scope); free early beta since ~Apr 2026, Nursery Pro storefront tier planned | Closest conceptual competitor to H2's lineage half; zero visible traction (see evidence/2026-10-11-incumbent-teardown.md)
 
 ## Segments (candidate ICPs)
 
