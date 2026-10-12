@@ -16,7 +16,7 @@ Living queue. Serial execution (local inference: one subagent at a time). Owner 
 - **R5 Interview kit** [owner] — script + recruiting plan (r/orchids, AOS groups, Instagram sellers). WTP can only be cracked by humans talking to humans; agent work can draft, owner records.
 - **R6 Adjacent-communities watch** — recurring digest of r/orchid, r/aroids, r/HousePlants, OrchidBoard, r/Monstera: unprompted tool/record complaints only. Good overnight-cron candidate.
 - **R7 Marketplace forensics** — Etsy/eBay/Shopify rare-plant listings: price distribution of high-value plants (>€100), how provenance is claimed today, scam patterns.
-- **R8 Regulatory map** — EU plant passport + CITES enforcement reality for micro-sellers (are they actually complying? fines? ignorance?) — determines if passport tooling is painkiller or vitamin.
+- **R8 (running, owner-requested 2026-10-11)** EU plant passport Germany: process/time/costs + blind spots, extended with CITES interplay + enforcement → `research/2026-10-11-eu-plant-passport-germany.md`
 - **R9 Idea divergence round** — freeform brainstorm in `ideas/` scored against evidence so far (SCAMPER on the transferable-record concept).
 - **R10 Competitor graveyard** — dead orchid/plant apps (shut-down post-mortems, 1-star reviews of abandoned apps): why does this graveyard exist? Kills naive optimism early.
 
