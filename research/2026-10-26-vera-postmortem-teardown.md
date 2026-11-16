@@ -1,5 +1,7 @@
 # The Beloved Vera App — post-mortem teardown & feature match vs today
 
+> **2026-10-26 addendum:** 30 official Play-store screenshots recovered (Wayback snapshot of the listing from the day it was pulled) + archived listing page with review histogram and an export-was-offered-but-broken 2021 complaint → `evidence/vera-screens/README.md`. App Store side unrecoverable (iTunes API returns 0; no archive snapshot). No demo video found.
+
 Date: 2026-10-26 · Prompt: owner-requested ("why beloved? which features? how does it match competition today?") · Sources: Bloomscape's own live Vera page (fetched 2026-10-26), press reviews, App Store review aggregation (justuseapp), AppBrain, Reddit (snippets, sentiment labeled).
 
 ## 1. What it was
